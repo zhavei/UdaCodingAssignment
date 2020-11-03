@@ -1,5 +1,5 @@
 fun main() {
-var sum = functionReturn(34.5, 78.0)
+var sum = functionReturn(34.0, 78.0)
     println(sum)
 
 }
