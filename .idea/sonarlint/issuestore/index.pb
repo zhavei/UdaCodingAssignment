@@ -9,3 +9,7 @@ H
 src/main/kotlin/soal1.kt,0\8\08592dc55d9afc9870aae61598c219608cca40f4
 H
 src/main/kotlin/soal3.kt,1\f\1f7b006b7817df68db0fec6dbd85c9bd30405df3
+H
+src/main/kotlin/soal4.kt,5\9\59f480daa2df8faa35ee7209066a4120d68f3603
+H
+src/main/kotlin/soal5.kt,2\f\2f50c56993e5ba6a071be5ba544f531bdea4950a
