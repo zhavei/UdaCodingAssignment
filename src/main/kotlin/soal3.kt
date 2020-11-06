@@ -4,7 +4,10 @@ fun main() {
         println(name)
     }
 
+
     while (listName.contains("udacoding"))
         println("nah ini belajar coding yang keren")
 
+
 }
+
